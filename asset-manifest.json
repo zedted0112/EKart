@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EKart/static/css/main.b0db2c95.css",
+    "main.js": "/EKart/static/js/main.069799fc.js",
+    "index.html": "/EKart/index.html",
+    "main.b0db2c95.css.map": "/EKart/static/css/main.b0db2c95.css.map",
+    "main.069799fc.js.map": "/EKart/static/js/main.069799fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0db2c95.css",
+    "static/js/main.069799fc.js"
+  ]
+}
